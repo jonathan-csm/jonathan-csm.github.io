@@ -9,7 +9,7 @@ Welcome to my profile. I am a Grade 10 student based in Dubai studying under the
 * **Core Focus Areas:** Standard Mathematics, Physics, Chemistry and Computer Science
 
 ## 📜 Verified Milestones
-* [x] 
+* [x] Made my first introductory project.
 
 ## 💻 Tech Learning Journey (Planned & Active)
 * [ ] **Phase 1:** 
