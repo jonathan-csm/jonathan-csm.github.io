@@ -6,7 +6,7 @@ Welcome to my profile. I am a Grade 10 student based in Dubai studying under the
 ## 📊 Academic Profile & Trackers
 * **Current Status:** Grade 10 Student (CBSE Curriculum)
 * **Target Milestone:** May 2029 Grade 12 Board Exams
-* **Core Focus Areas:** Mathematics, Physics, Chemistry
+* **Core Focus Areas:** Standard Mathematics, Physics, Chemistry and Computer Science
 
 ## 📜 Verified Milestones
 * [x] 
